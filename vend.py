@@ -424,7 +424,7 @@ class VendingMachineGUI:
         c.create_rectangle(28, 48, 608, 692, fill="#90A4AE", outline="")
         c.create_rectangle(20, 40, 600, 685, fill="#E53935",
                            outline="#B71C1C", width=4)
-        c.create_text(310, 62, text="DFA DRINKS", fill="white",
+        c.create_text(310, 62, text="DRINKS", fill="white",
                       font=("Arial Black", 20, "bold"))
 
         # Glass drink display area
