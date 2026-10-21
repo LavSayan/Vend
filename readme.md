@@ -1,7 +1,6 @@
 # DFA Vending Machine (Python + Tkinter)
 
-A 2D vending machine for a school project on **Deterministic Finite Automata**.
-It is one Python file and only uses the standard library.
+A 2D vending machine for CS 300 - Automata Theory and Formal Languages project on **Deterministic Finite Automata**.
 
 ## Run
 ```
