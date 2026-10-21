@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-=============================================================================
-  DFA VENDING MACHINE  -  a 2D Tkinter vending machine driven by a real DFA
-=============================================================================
 
+"""
   Run it with:      python vend.py
   Print the table:  python vend.py --test
 
